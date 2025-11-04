@@ -12,7 +12,7 @@
 
 Proyek ini adalah sequencer untuk **Overture Natal Umum GPdI Ecclesia 2024**.
 
-> **Catatan:** Sequencer ini dibuat untuk membantu penampilan live, latihan, atau produksi kreatif lainnya.
+> **Catatan:** Sequencer ini dibuat untuk membantu penampilan live, latihan, atau produksi kreatif lainnya. Mau dibawa pelayanan juga terserah. 
 
 ## 💾 Download Files
 
@@ -28,7 +28,7 @@ Proyek ini adalah sequencer untuk **Overture Natal Umum GPdI Ecclesia 2024**.
 
 ## 🛠️ Metode Pembuatan
 
-* **Digital Audio Workstation (DAW):** Dibuat menggunakan **Ableton Live 11 Suite**.
+* **Digital Audio Workstation (DAW):** Aslinya menggunakan Ableton Live 11 Suite. Tapi karena kebutuhan export dan aku sudah upgrade, project ini sekarang pakai **Ableton Live 12 Suite**
 * **VST:** Project sudah difreeze jadi bisa tetap kamu buka walau ga ada plugin-nya.
 * **Samples:** Semua sample yang dipakai sudah di-include.
 
@@ -49,7 +49,7 @@ Under the following terms:
 
 ## 💸 Credit Details
 
-[#projectBeautifulChaos](https://github.com/rinaldojonathan) [Rinaldo Jonathan](https://youtube.com/rinaldojonathan) [GPdI Ecclesia](https://instagram.com/@ecclesia_pku)
+[Rinaldo Jonathan](https://youtube.com/rinaldojonathan) [GPdI Ecclesia](https://instagram.com/@ecclesia_pku)
 
 ---
 
@@ -68,4 +68,5 @@ Sequencer lainnya ada di [Project Open Sequencer by RJP](https://opensq.rinaldo.
 
 ---
 
-Semoga sequencer ini dapat mempermudah latihan atau penampilanmu! 🙏✨
+Semoga sequencer ini dapat mempermudah latihan atau penampilanmu! 
+God bless 🙏✨
