@@ -6,9 +6,9 @@
 * **Video Penampilan:** Overture + Yesus Raja Damai [Extended Version] - GPdI Ecclesia Perayaan Natal 12 Des 2024 ([Link](http://www.youtube.com/watch?v=NXp_FjyYgXY))
 * **Aransemen oleh:** RJP (menggunakan melodi dari "Yesus Raja Damai" - Welyar Kauntu dan "Carol of the Bells").
 
-> **CATATAN PENTING: ** TIDAK SEMUA YANG KAMU DENGAR DI VIDEO PERFORMANCE, ADA DI DALAM SEQUENCER. 
-Banyak sekali keputusan keputusan kreatif mendadak yang muncul on the spot, seperti misalnya kalimat strings di penutup overture yang nemenin lead gitar.
-Yesus Raja Damai (yang jadi bagian sambungan video performance) juga di perform live, TIDAK ADA SEQUENCERNYA. 
+> **CATATAN PENTING:** TIDAK SEMUA YANG KAMU DENGAR DI VIDEO PERFORMANCE, ADA DI DALAM SEQUENCER. 
+> Banyak sekali keputusan keputusan kreatif mendadak yang muncul on the spot, seperti misalnya kalimat strings di penutup overture yang nemenin lead gitar.
+> Yesus Raja Damai (yang jadi bagian sambungan video performance) juga di perform live, TIDAK ADA SEQUENCERNYA. 
 
 ---
 
